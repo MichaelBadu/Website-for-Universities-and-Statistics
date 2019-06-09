@@ -1,0 +1,45 @@
+body {
+  padding: 0;
+  margin: 0;
+  background: White;
+
+}
+
+/** Header styles **/
+.menu_bar {
+  background-color: Black;
+}
+
+
+
+h1 {
+  
+  font-family: 'Covered By Your Grace', sans-serif;
+  font-size: 100px;
+  line-height: 76px;
+  margin: 0;
+  text-align: center;
+  margin-top: 50px;
+}
+
+/** List style **/
+
+
+}
+
+ul {
+  margin: 0 auto;
+  padding: 0;
+  width: 75%;
+  list-style: none;
+}
+
+.mylist {
+  border-bottom: 1px solid #E4BB97;
+  list-style: none;
+  margin: 100px 0px;
+  padding-bottom: 60px;
+}
+
+
+

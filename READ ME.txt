@@ -1,0 +1,5 @@
+NB: Please, I stored the html files as .php so in order to display the site a web server is needed using the localhost:80/p1.
+Also, I used php for the navigation bars which is in the html codes.
+
+In addition for the charts Ghana's API didnt not have data for some of the years so the bar chart did not show bars for those years.
+But the others showed all
